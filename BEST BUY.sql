@@ -47,3 +47,5 @@ WHERE MiddleInitial is null;
 SELECT * FROM products
 WHERE stocklevel BETWEEN 500 AND 1200
 ORDER BY price ASC;
+
+--END
